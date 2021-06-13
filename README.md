@@ -1,6 +1,6 @@
-## Tableau - Dashboard
+# Tableau - Dashboard
 
-# Game Of Thrones - Kill Record
+## Game Of Thrones - Kill Record
 
 This is a basic dashboard that displays the record of killing done by Characters in Game of Thorones.
 
